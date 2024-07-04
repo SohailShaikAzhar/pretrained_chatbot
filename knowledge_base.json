@@ -1,8 +1,1607 @@
 {
   "questions": [
+    {},
     {
       "question": "hi",
-      "answer": "hello, how can I help you today?"
-    }
+      "answer": "hey there, how can I help you today?"
+    },
+    {
+      "question": "hello",
+      "answer": "hello, how can I help you today"
+    },
+    {
+      "question": "good evening!",
+      "answer": "good evening, nice to meet you, how can I help you today?"
+    },
+    {
+      "question": "good night",
+      "answer": "good night, well have a great sleep.... :)"
+    },
+    {
+      "question": "happy",
+      "answer": "you are happy, Thats great to hear."
+    },
+    {
+      "question": "what is the capital of India",
+      "answer": "Delhi"
+    },
+    {
+      "question": "what is the capital of telengana",
+      "answer": "Hyderabad"
+    },
+    {
+     
+          "question": "hi",
+          "answer": "Hello! How can I assist you today?"
+        },
+        {
+          "question": "hello",
+          "answer": "Hi there! What can I do for you today?"
+        },
+        {
+          "question": "good morning",
+          "answer": "Good morning! How can I help you?"
+        },
+        {
+          "question": "good afternoon",
+          "answer": "Good afternoon! How can I assist you?"
+        },
+        {
+          "question": "good evening",
+          "answer": "Good evening! What can I do for you?"
+        },
+        {
+          "question": "good night",
+          "answer": "Good night! Have a great sleep."
+        },
+        {
+          "question": "how are you",
+          "answer": "I'm just a bot, but I'm here to help you!"
+        },
+        {
+          "question": "what's your name",
+          "answer": "I'm your friendly chatbot."
+        },
+        {
+          "question": "what is the capital of India",
+          "answer": "The capital of India is New Delhi."
+        },
+        {
+          "question": "what is the capital of Telangana",
+          "answer": "The capital of Telangana is Hyderabad."
+        },
+        {
+          "question": "what's the weather like",
+          "answer": "I can't check the weather right now, but you can use a weather app for that!"
+        },
+        {
+          "question": "tell me a joke",
+          "answer": "Why don't scientists trust atoms? Because they make up everything!"
+        },
+        {
+          "question": "what's the time",
+          "answer": "I'm unable to tell the time right now, but you can check your device!"
+        },
+        {
+          "question": "who created you",
+          "answer": "I was created by a team of developers."
+        },
+        {
+          "question": "what is the meaning of life",
+          "answer": "That's a deep question! Many people have different answers."
+        },
+        {
+          "question": "goodbye",
+          "answer": "Goodbye! Have a great day!"
+        },
+        {
+          "question": "how old are you",
+          "answer": "I don't have an age, but I'm here to help you!"
+        },
+        {
+          "question": "what's the capital of France",
+          "answer": "The capital of France is Paris."
+        },
+        {
+          "question": "what's the largest planet in our solar system",
+          "answer": "The largest planet in our solar system is Jupiter."
+        },
+        {
+          "question": "what's the tallest mountain in the world",
+          "answer": "The tallest mountain in the world is Mount Everest."
+        },
+        {
+          "question": "who is the president of the United States",
+          "answer": "The current president of the United States is Joe Biden." 
+        },
+        {
+          "question": "what is 2+2",
+          "answer": "2+2 is 4."
+        },
+        {
+          "question": "what is the square root of 16",
+          "answer": "The square root of 16 is 4."
+        },
+        {
+          "question": "what is the speed of light",
+          "answer": "The speed of light is approximately 299,792,458 meters per second."
+        },
+        {
+          "question": "who wrote 'To Kill a Mockingbird'",
+          "answer": "Harper Lee wrote 'To Kill a Mockingbird'."
+        },
+        {
+          "question": "who painted the Mona Lisa",
+          "answer": "Leonardo da Vinci painted the Mona Lisa."
+        },
+        {
+          "question": "what is the capital of Japan",
+          "answer": "The capital of Japan is Tokyo."
+        },
+        {
+          "question": "what's the smallest country in the world",
+          "answer": "The smallest country in the world is Vatican City."
+        },
+        {
+          "question": "who is the CEO of Tesla",
+          "answer": "The CEO of Tesla is Elon Musk."
+        },
+        {
+          "question": "what is the boiling point of water",
+          "answer": "The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit."
+        },
+        {
+          "question": "what is the capital of Australia",
+          "answer": "The capital of Australia is Canberra."
+        },
+        {
+          "question": "how many continents are there",
+          "answer": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+        },
+        {
+          "question": "what is the largest ocean",
+          "answer": "The largest ocean is the Pacific Ocean."
+        },
+        {
+          "question": "what is the capital of Canada",
+          "answer": "The capital of Canada is Ottawa."
+        },
+        {
+          "question": "who discovered penicillin",
+          "answer": "Alexander Fleming discovered penicillin."
+        },
+        {
+          "question": "what's the capital of Germany",
+          "answer": "The capital of Germany is Berlin."
+        },
+        {
+          "question": "what is the longest river in the world",
+          "answer": "The longest river in the world is the Nile River."
+        },
+        {
+          "question": "who is known as the Father of Computers",
+          "answer": "Charles Babbage is known as the Father of Computers."
+        },
+        {
+          "question": "what is the chemical symbol for water",
+          "answer": "The chemical symbol for water is H2O."
+        },
+        {
+          "question": "what is the largest mammal",
+          "answer": "The largest mammal is the blue whale."
+        },
+        {
+          "question": "what is the capital of Italy",
+          "answer": "The capital of Italy is Rome."
+        },
+        {
+          "question": "who is the author of 'Harry Potter' series",
+          "answer": "J.K. Rowling is the author of the 'Harry Potter' series."
+        },
+        {
+          "question": "what is the freezing point of water",
+          "answer": "The freezing point of water is 0 degrees Celsius or 32 degrees Fahrenheit."
+        },
+        {
+          "question": "who was the first person to walk on the moon",
+          "answer": "Neil Armstrong was the first person to walk on the moon."
+        },
+        {
+          "question": "what is the capital of Russia",
+          "answer": "The capital of Russia is Moscow."
+        },
+        {
+          "question": "what is the largest desert in the world",
+          "answer": "The largest desert in the world is the Sahara Desert."
+        },
+        {
+          "question": "what is the smallest bone in the human body",
+          "answer": "The smallest bone in the human body is the stapes bone in the middle ear."
+        },
+        {
+          "question": "who invented the telephone",
+          "answer": "Alexander Graham Bell invented the telephone."
+        },
+        {
+          "question": "what is the tallest building in the world",
+          "answer": "The tallest building in the world is the Burj Khalifa in Dubai."
+        },
+        {
+          "question": "what is the capital of South Korea",
+          "answer": "The capital of South Korea is Seoul."
+        },
+        {
+          "question": "who wrote 'Romeo and Juliet'",
+          "answer": "William Shakespeare wrote 'Romeo and Juliet'."
+        },
+        {
+          "question": "what is the largest island in the world",
+          "answer": "The largest island in the world is Greenland."
+        },
+        {
+          "question": "what is the capital of Brazil",
+          "answer": "The capital of Brazil is Brasília."
+        },
+        {
+          "question": "who developed the theory of relativity",
+          "answer": "Albert Einstein developed the theory of relativity."
+        },
+        {
+          "question": "what is the chemical symbol for gold",
+          "answer": "The chemical symbol for gold is Au."
+        },
+        {
+          "question": "who was the first president of the United States",
+          "answer": "The first president of the United States was George Washington."
+        },
+        {
+          "question": "what is the capital of Spain",
+          "answer": "The capital of Spain is Madrid."
+        },
+        {
+          "question": "what is the largest land animal",
+          "answer": "The largest land animal is the African elephant."
+        },
+        {
+          "question": "who painted the Sistine Chapel ceiling",
+          "answer": "Michelangelo painted the Sistine Chapel ceiling."
+        },
+        {
+          "question": "what is the capital of Mexico",
+          "answer": "The capital of Mexico is Mexico City."
+        },
+        {
+          "question": "what is the currency of Japan",
+          "answer": "The currency of Japan is the yen."
+        },
+        {
+          "question": "who invented the light bulb",
+          "answer": "Thomas Edison is often credited with inventing the light bulb."
+        },
+        {
+          "question": "what is the capital of Egypt",
+          "answer": "The capital of Egypt is Cairo."
+        },
+        {
+          "question": "what is the longest bone in the human body",
+          "answer": "The longest bone in the human body is the femur."
+        },
+        {
+          "question": "what is the largest continent",
+          "answer": "The largest continent is Asia."
+        },
+        {
+          "question": "who wrote 'Pride and Prejudice'",
+          "answer": "Jane Austen wrote 'Pride and Prejudice'."
+        },
+        {
+          "question": "what is the capital of Argentina",
+          "answer": "The capital of Argentina is Buenos Aires."
+        },
+        {
+          "question": "who is the CEO of Amazon",
+          "answer": "As of 2024, the CEO of Amazon is Andy Jassy."
+        },
+        {
+          "question": "what is the capital of the United Kingdom",
+          "answer": "The capital of the United Kingdom is London."
+        },
+        {
+          "question": "what is the deepest ocean",
+          "answer": "The deepest ocean is the Pacific Ocean."
+        },
+        {
+          "question": "who invented the World Wide Web",
+          "answer": "Tim Berners-Lee invented the World Wide Web."
+        },
+        {
+          "question": "what is the chemical symbol for oxygen",
+          "answer": "The chemical symbol for oxygen is O."
+        },
+        {
+          "question": "what is the capital of China",
+          "answer": "The capital of China is Beijing."
+        },
+        {
+          "question": "what is the fastest land animal",
+          "answer": "The fastest land animal is the cheetah."
+        },
+        {
+          "question": "who wrote 'The Great Gatsby'",
+          "answer": "F. Scott Fitzgerald wrote 'The Great Gatsby'."
+        },
+        {
+          "question": "what is the capital of Turkey",
+          "answer": "The capital of Turkey is Ankara."
+        },
+        {
+          "question": "what is the smallest planet in our solar system",
+          "answer": "The smallest planet in our solar system is Mercury."
+        },
+        {
+          "question": "who discovered America",
+          "answer": "Christopher Columbus is credited with discovering America in 1492."
+        },
+        {
+          "question": "what is the largest city in the world",
+          "answer": "The largest city in the world by population is Tokyo, Japan."
+        },
+        {
+          "question": "what is the capital of Saudi Arabia",
+          "answer": "The capital of Saudi Arabia is Riyadh."
+        },
+        {
+          "question": "what is the chemical symbol for iron",
+          "answer": "The chemical symbol for iron is Fe."
+        },
+        {
+          "question": "who wrote '1984'",
+          "answer": "George Orwell wrote '1984'."
+        },
+        {
+          "question": "what is the capital of Thailand",
+          "answer": "The capital of Thailand is Bangkok."
+        },
+        {
+          "question": "what is the tallest tree in the world",
+          "answer": "The tallest tree in the world is a coast redwood named Hyperion."
+        },
+        {
+          "question": "who painted 'Starry Night'",
+          "answer": "Vincent van Gogh painted 'Starry Night'."
+        },
+        {
+          "question": "what is the capital of Malaysia",
+          "answer": "The capital of Malaysia is Kuala Lumpur."
+        },
+        {
+          "question": "what is the chemical symbol for sodium",
+          "answer": "The chemical symbol for sodium is Na."
+        },
+        {
+          "question": "who invented the airplane",
+          "answer": "The Wright brothers, Orville and Wilbur Wright, invented the airplane."
+        },
+        {
+          "question": "what is the capital of Greece",
+          "answer": "The capital of Greece is Athens."
+        },
+        {
+          "question": "what is the hardest natural substance",
+          "answer": "The hardest natural substance is diamond."
+        },
+        {
+          "question": "who discovered gravity",
+          "answer": "Sir Isaac Newton is credited with discovering gravity."
+        },
+        {
+          "question": "what is the capital of Chile",
+          "answer": "The capital of Chile is Santiago."
+        },
+        {
+          "question": "what is the most abundant gas in the Earth's atmosphere",
+          "answer": "The most abundant gas in the Earth's atmosphere is nitrogen."
+        },
+        {
+          "question": "who wrote 'Moby-Dick'",
+          "answer": "Herman Melville wrote 'Moby-Dick'."
+        },
+        {
+          "question": "what is the capital of Indonesia",
+          "answer": "The capital of Indonesia is Jakarta."
+        },
+        {
+          "question": "what is the closest star to Earth",
+          "answer": "The closest star to Earth is the Sun."
+        },
+        {
+          "question": "who painted 'The Last Supper'",
+          "answer": "Leonardo da Vinci painted 'The Last Supper'."
+        },
+        {
+          "question": "what is the capital of Norway",
+          "answer": "The capital of Norway is Oslo."
+        },
+        {
+          "question": "what is the chemical symbol for potassium",
+          "answer": "The chemical symbol for potassium is K."
+        },
+        {
+          "question": "who wrote 'War and Peace'",
+          "answer": "Leo Tolstoy wrote 'War and Peace'."
+        },
+        {
+          "question": "what is the capital of South Africa",
+          "answer": "South Africa has three capitals: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative)."
+        },
+        {
+          "question": "what is the speed of sound",
+          "answer": "The speed of sound is approximately 343 meters per second (1,235 kilometers per hour) at sea level."
+        },
+        {
+          "question": "who invented the steam engine",
+          "answer": "James Watt is often credited with inventing the steam engine."
+        },
+        {
+          "question": "what is the capital of the Netherlands",
+          "answer": "The capital of the Netherlands is Amsterdam."
+        },
+        {
+          "question": "what is the main ingredient in glass",
+          "answer": "The main ingredient in glass is silica (sand)."
+        },
+        {
+          "question": "who wrote 'The Odyssey'",
+          "answer": "Homer is credited with writing 'The Odyssey'."
+        },
+        {
+          "question": "what is the capital of Portugal",
+          "answer": "The capital of Portugal is Lisbon."
+        },
+        {
+          "question": "what is the most spoken language in the world",
+          "answer": "The most spoken language in the world by number of native speakers is Mandarin Chinese."
+        },
+        {
+          "question": "who invented the printing press",
+          "answer": "Johannes Gutenberg invented the printing press."
+        },
+        {
+          "question": "what is the capital of Sweden",
+          "answer": "The capital of Sweden is Stockholm."
+        },
+        {
+          "question": "what is the smallest particle of an element",
+          "answer": "The smallest particle of an element is an atom."
+        },
+        {
+          "question": "who wrote 'The Divine Comedy'",
+          "answer": "Dante Alighieri wrote 'The Divine Comedy'."
+        },
+        {
+          "question": "what is the capital of New Zealand",
+          "answer": "The capital of New Zealand is Wellington."
+        },
+        {
+          "question": "what is the main gas in the Earth's atmosphere",
+          "answer": "The main gas in the Earth's atmosphere is nitrogen."
+        },
+        {
+          "question": "who painted the 'Mona Lisa'",
+          "answer": "Leonardo da Vinci painted the 'Mona Lisa'."
+        },
+        {
+          "question": "what is the capital of Kenya",
+          "answer": "The capital of Kenya is Nairobi."
+        },
+        {
+          "question": "what is the currency of the United Kingdom",
+          "answer": "The currency of the United Kingdom is the British pound sterling."
+        },
+        {
+          "question": "who discovered the structure of DNA",
+          "answer": "James Watson and Francis Crick are credited with discovering the structure of DNA."
+        },
+        {
+          "question": "what is the capital of Finland",
+          "answer": "The capital of Finland is Helsinki."
+        },
+        {
+          "question": "what is the hottest planet in the solar system",
+          "answer": "The hottest planet in the solar system is Venus."
+        },
+        {
+          "question": "who wrote 'The Catcher in the Rye'",
+          "answer": "J.D. Salinger wrote 'The Catcher in the Rye'."
+        },
+        {
+          "question": "what is the capital of Vietnam",
+          "answer": "The capital of Vietnam is Hanoi."
+        },
+        {
+          "question": "what is the most abundant element in the universe",
+          "answer": "The most abundant element in the universe is hydrogen."
+        },
+        {
+          "question": "who wrote 'The Hobbit'",
+          "answer": "J.R.R. Tolkien wrote 'The Hobbit'."
+        },
+        {
+          "question": "what is the capital of Iraq",
+          "answer": "The capital of Iraq is Baghdad."
+        },
+        {
+          "question": "what is the chemical symbol for carbon",
+          "answer": "The chemical symbol for carbon is C."
+        },
+        {
+          "question": "who invented the first successful airplane",
+          "answer": "The Wright brothers, Orville and Wilbur Wright, invented the first successful airplane."
+        },
+        {
+          "question": "what is the capital of Israel",
+          "answer": "The capital of Israel is Jerusalem."
+        },
+        {
+          "question": "what is the most common blood type",
+          "answer": "The most common blood type is O positive."
+        },
+        {
+          "question": "who wrote 'The Iliad'",
+          "answer": "Homer is credited with writing 'The Iliad'."
+        },
+        {
+          "question": "what is the capital of Morocco",
+          "answer": "The capital of Morocco is Rabat."
+        },
+        {
+          "question": "what is the main gas found in the air we breathe",
+          "answer": "The main gas found in the air we breathe is nitrogen."
+        },
+        {
+          "question": "who painted 'The Persistence of Memory'",
+          "answer": "Salvador Dalí painted 'The Persistence of Memory'."
+        },
+        {
+          "question": "what is the capital of Denmark",
+          "answer": "The capital of Denmark is Copenhagen."
+        },
+        {
+          "question": "what is the main component of the sun",
+          "answer": "The main component of the sun is hydrogen."
+        },
+        {
+          "question": "who wrote 'Don Quixote'",
+          "answer": "Miguel de Cervantes wrote 'Don Quixote'."
+        },
+        {
+          "question": "what is the capital of Switzerland",
+          "answer": "The capital of Switzerland is Bern."
+        },
+        {
+          "question": "what is the primary function of red blood cells",
+          "answer": "The primary function of red blood cells is to carry oxygen."
+        },
+        {
+          "question": "who discovered the laws of motion",
+          "answer": "Sir Isaac Newton discovered the laws of motion."
+        },
+        {
+          "question": "what is the capital of Poland",
+          "answer": "The capital of Poland is Warsaw."
+        },
+        {
+          "question": "what is the chemical symbol for calcium",
+          "answer": "The chemical symbol for calcium is Ca."
+        },
+        {
+          "question": "who wrote 'The Adventures of Huckleberry Finn'",
+          "answer": "Mark Twain wrote 'The Adventures of Huckleberry Finn'."
+        },
+        {
+          "question": "what is the capital of the Philippines",
+          "answer": "The capital of the Philippines is Manila."
+        },
+        {
+          "question": "what is the second most abundant gas in the Earth's atmosphere",
+          "answer": "The second most abundant gas in the Earth's atmosphere is oxygen."
+        },
+        {
+          "question": "who painted 'The Scream'",
+          "answer": "Edvard Munch painted 'The Scream'."
+        },
+        {
+          "question": "what is the capital of Austria",
+          "answer": "The capital of Austria is Vienna."
+        },
+        {
+          "question": "what is the main ingredient in steel",
+          "answer": "The main ingredient in steel is iron."
+        },
+        {
+          "question": "who wrote 'The Canterbury Tales'",
+          "answer": "Geoffrey Chaucer wrote 'The Canterbury Tales'."
+        },
+        {
+          "question": "what is the capital of Hungary",
+          "answer": "The capital of Hungary is Budapest."
+        },
+        {
+          "question": "what is the atomic number of hydrogen",
+          "answer": "The atomic number of hydrogen is 1."
+        },
+        {
+          "question": "who painted 'Girl with a Pearl Earring'",
+          "answer": "Johannes Vermeer painted 'Girl with a Pearl Earring'."
+        },
+        {
+          "question": "what is the capital of Nigeria",
+          "answer": "The capital of Nigeria is Abuja."
+        },
+        {
+          "question": "what is the main function of white blood cells",
+          "answer": "The main function of white blood cells is to fight infections."
+        },
+        {
+          "question": "who wrote 'The Brothers Karamazov'",
+          "answer": "Fyodor Dostoevsky wrote 'The Brothers Karamazov'."
+        },
+        {
+          "question": "what is the capital of Belgium",
+          "answer": "The capital of Belgium is Brussels."
+        },
+        {
+          "question": "what is the chemical symbol for helium",
+          "answer": "The chemical symbol for helium is He."
+        },
+        {
+          "question": "who invented the telephone",
+          "answer": "Alexander Graham Bell invented the telephone."
+        },
+        {
+          "question": "what is the capital of Peru",
+          "answer": "The capital of Peru is Lima."
+        },
+        {
+          "question": "what is the boiling point of water",
+          "answer": "The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit."
+        },
+        {
+          "question": "who wrote 'The Great Gatsby'",
+          "answer": "F. Scott Fitzgerald wrote 'The Great Gatsby'."
+        },
+        {
+          "question": "what is the capital of Colombia",
+          "answer": "The capital of Colombia is Bogotá."
+        },
+        {
+          "question": "what is the main gas found in the Earth's atmosphere",
+          "answer": "The main gas found in the Earth's atmosphere is nitrogen."
+        },
+        {
+          "question": "who painted 'The Last Supper'",
+          "answer": "Leonardo da Vinci painted 'The Last Supper'."
+        },
+        {
+          "question": "what is the capital of Venezuela",
+          "answer": "The capital of Venezuela is Caracas."
+        },
+        {
+          "question": "what is the atomic number of carbon",
+          "answer": "The atomic number of carbon is 6."
+        },
+        {
+          "question": "who wrote 'The Catcher in the Rye'",
+          "answer": "J.D. Salinger wrote 'The Catcher in the Rye'."
+        },
+        {
+          "question": "what is the capital of Afghanistan",
+          "answer": "The capital of Afghanistan is Kabul."
+        },
+        {
+          "question": "what is the primary function of red blood cells",
+          "answer": "The primary function of red blood cells is to carry oxygen."
+        },
+        {
+          "question": "who discovered the structure of DNA",
+          "answer": "James Watson and Francis Crick are credited with discovering the structure of DNA."
+        },
+        {
+          "question": "what is the capital of Algeria",
+          "answer": "The capital of Algeria is Algiers."
+        },
+        {
+          "question": "what is the main ingredient in glass",
+          "answer": "The main ingredient in glass is silica (sand)."
+        },
+        {
+          "question": "who painted 'The Persistence of Memory'",
+          "answer": "Salvador Dalí painted 'The Persistence of Memory'."
+        },
+        {
+          "question": "what is the capital of Jordan",
+          "answer": "The capital of Jordan is Amman."
+        },
+        {
+          "question": "what is the atomic number of oxygen",
+          "answer": "The atomic number of oxygen is 8."
+        },
+        {
+          "question": "who wrote 'War and Peace'",
+          "answer": "Leo Tolstoy wrote 'War and Peace'."
+        },
+        {
+          "question": "what is the capital of Ireland",
+          "answer": "The capital of Ireland is Dublin."
+        },
+        {
+          "question": "what is the most abundant element in the Earth's crust",
+          "answer": "The most abundant element in the Earth's crust is oxygen."
+        },
+        {
+          "question": "who wrote 'The Odyssey'",
+          "answer": "Homer is credited with writing 'The Odyssey'."
+        },
+        {
+          "question": "what is the capital of Uzbekistan",
+          "answer": "The capital of Uzbekistan is Tashkent."
+        },
+        {
+          "question": "what is the primary function of the liver",
+          "answer": "The primary function of the liver is to detoxify chemicals and metabolize drugs."
+        },
+        {
+          "question": "who painted 'The Night Watch'",
+          "answer": "Rembrandt painted 'The Night Watch'."
+        },
+        {
+          "question": "what is the capital of Libya",
+          "answer": "The capital of Libya is Tripoli."
+        },
+        {
+          "question": "what is the atomic number of nitrogen",
+          "answer": "The atomic number of nitrogen is 7."
+        },
+        {
+          "question": "who wrote 'Don Quixote'",
+          "answer": "Miguel de Cervantes wrote 'Don Quixote'."
+        },
+        {
+          "question": "what is the capital of Oman",
+          "answer": "The capital of Oman is Muscat."
+        },
+        {
+          "question": "what is the most abundant gas in the Earth's atmosphere",
+          "answer": "The most abundant gas in the Earth's atmosphere is nitrogen."
+        },
+        {
+          "question": "who wrote 'The Divine Comedy'",
+          "answer": "Dante Alighieri wrote 'The Divine Comedy'."
+        },
+        {
+          "question": "what is the capital of Qatar",
+          "answer": "The capital of Qatar is Doha."
+        },
+        {
+          "question": "what is the atomic number of gold",
+          "answer": "The atomic number of gold is 79."
+        },
+        {
+          "question": "who wrote 'The Brothers Karamazov'",
+          "answer": "Fyodor Dostoevsky wrote 'The Brothers Karamazov'."
+        },
+        {
+          "question": "what is the capital of Slovakia",
+          "answer": "The capital of Slovakia is Bratislava."
+        },
+        {
+          "question": "what is the primary function of the heart",
+          "answer": "The primary function of the heart is to pump blood throughout the body."
+        },
+        {
+          "question": "who painted 'The Birth of Venus'",
+          "answer": "Sandro Botticelli painted 'The Birth of Venus'."
+        },
+        {
+          "question": "what is the capital of Kazakhstan",
+          "answer": "The capital of Kazakhstan is Astana (formerly Nur-Sultan)."
+        },
+        {
+          "question": "what is the chemical symbol for gold",
+          "answer": "The chemical symbol for gold is Au."
+        },
+        {
+          "question": "who wrote 'The Canterbury Tales'",
+          "answer": "Geoffrey Chaucer wrote 'The Canterbury Tales'."
+        },
+        {
+          "question": "what is the capital of Mongolia",
+          "answer": "The capital of Mongolia is Ulaanbaatar."
+        },
+        {
+          "question": "what is the primary function of the kidneys",
+          "answer": "The primary function of the kidneys is to filter waste products from the blood."
+        },
+        {
+          "question": "who painted 'The School of Athens'",
+          "answer": "Raphael painted 'The School of Athens'."
+        },
+        {
+          "question": "what is the capital of South Korea",
+          "answer": "The capital of South Korea is Seoul."
+        },
+        {
+          "question": "what is the chemical symbol for silver",
+          "answer": "The chemical symbol for silver is Ag."
+        },
+        {
+          "question": "who wrote 'To Kill a Mockingbird'",
+          "answer": "Harper Lee wrote 'To Kill a Mockingbird'."
+        },
+        {
+          "question": "what is the capital of Australia",
+          "answer": "The capital of Australia is Canberra."
+        },
+        {
+          "question": "what is the primary function of the pancreas",
+          "answer": "The primary function of the pancreas is to produce insulin and other important enzymes and hormones that help break down foods."
+        },
+        {
+          "question": "who painted 'The Garden of Earthly Delights'",
+          "answer": "Hieronymus Bosch painted 'The Garden of Earthly Delights'."
+        },
+        {
+          "question": "what is the capital of Pakistan",
+          "answer": "The capital of Pakistan is Islamabad."
+        },
+        {
+          "question": "what is the chemical symbol for platinum",
+          "answer": "The chemical symbol for platinum is Pt."
+        },
+        {
+          "question": "who wrote 'The Count of Monte Cristo'",
+          "answer": "Alexandre Dumas wrote 'The Count of Monte Cristo'."
+        },
+        {
+          "question": "what is the capital of Ukraine",
+          "answer": "The capital of Ukraine is Kyiv."
+        },
+        {
+          "question": "what is the primary function of the small intestine",
+          "answer": "The primary function of the small intestine is to absorb nutrients and minerals from food."
+        },
+        {
+          "question": "who painted 'The Kiss'",
+          "answer": "Gustav Klimt painted 'The Kiss'."
+        },
+        {
+          "question": "what is the capital of Iceland",
+          "answer": "The capital of Iceland is Reykjavik."
+        },
+        {
+          "question": "what is the chemical symbol for zinc",
+          "answer": "The chemical symbol for zinc is Zn."
+        },
+        {
+          "question": "who wrote 'Les Misérables'",
+          "answer": "Victor Hugo wrote 'Les Misérables'."
+        },
+        {
+          "question": "what is the capital of Cuba",
+          "answer": "The capital of Cuba is Havana."
+        },
+        {
+          "question": "what is the primary function of the large intestine",
+          "answer": "The primary function of the large intestine is to absorb water and salts from the material that has not been digested as food, and to get rid of any waste products left over."
+        },
+        {
+          "question": "who painted 'Guernica'",
+          "answer": "Pablo Picasso painted 'Guernica'."
+        },
+        {
+          "question": "what is the capital of Nepal",
+          "answer": "The capital of Nepal is Kathmandu."
+        },
+        {
+          "question": "what is the chemical symbol for chlorine",
+          "answer": "The chemical symbol for chlorine is Cl."
+        },
+        {
+          "question": "who wrote 'The Picture of Dorian Gray'",
+          "answer": "Oscar Wilde wrote 'The Picture of Dorian Gray'."
+        },
+        {
+          "question": "what is the capital of Finland",
+          "answer": "The capital of Finland is Helsinki."
+        },
+        {
+          "question": "what is the primary function of platelets",
+          "answer": "The primary function of platelets is to help in blood clotting."
+        },
+        {
+          "question": "who painted 'The Creation of Adam'",
+          "answer": "Michelangelo painted 'The Creation of Adam'."
+        },
+        {
+          "question": "what is the capital of the Czech Republic",
+          "answer": "The capital of the Czech Republic is Prague."
+        },
+        {
+          "question": "what is the chemical symbol for neon",
+          "answer": "The chemical symbol for neon is Ne."
+        },
+        {
+          "question": "who wrote 'Wuthering Heights'",
+          "answer": "Emily Brontë wrote 'Wuthering Heights'."
+        },
+        {
+          "question": "what is the capital of Bangladesh",
+          "answer": "The capital of Bangladesh is Dhaka."
+        },
+        {
+          "question": "what is the primary function of the stomach",
+          "answer": "The primary function of the stomach is to break down and digest food."
+        },
+        {
+          "question": "who painted 'The Night Watch'",
+          "answer": "Rembrandt painted 'The Night Watch'."
+        },
+        {
+          "question": "what is the capital of Canada",
+          "answer": "The capital of Canada is Ottawa."
+        },
+        {
+          "question": "what is the chemical symbol for nitrogen",
+          "answer": "The chemical symbol for nitrogen is N."
+        },
+        {
+          "question": "who wrote 'Frankenstein'",
+          "answer": "Mary Shelley wrote 'Frankenstein'."
+        },
+        {
+          "question": "what is the capital of Singapore",
+          "answer": "The capital of Singapore is Singapore."
+        },
+        {
+          "question": "what is the primary function of the liver",
+          "answer": "The primary function of the liver is to detoxify chemicals and metabolize drugs."
+        },
+        {
+          "question": "who painted 'The Persistence of Memory'",
+          "answer": "Salvador Dalí painted 'The Persistence of Memory'."
+        },
+        {
+          "question": "what is the capital of Mexico",
+          "answer": "The capital of Mexico is Mexico City."
+        },
+        {
+          "question": "what is the chemical symbol for oxygen",
+          "answer": "The chemical symbol for oxygen is O."
+        },
+        {
+          "question": "who wrote 'The Catcher in the Rye'",
+          "answer": "J.D. Salinger wrote 'The Catcher in the Rye'."
+        },
+        {
+          "question": "what is the capital of Brazil",
+          "answer": "The capital of Brazil is Brasília."
+        },
+        {
+          "question": "what is the primary function of white blood cells",
+          "answer": "The primary function of white blood cells is to fight infections."
+        },
+        {
+          "question": "who painted 'The Mona Lisa'",
+          "answer": "Leonardo da Vinci painted 'The Mona Lisa'."
+        },
+        {
+          "question": "what is the capital of Spain",
+          "answer": "The capital of Spain is Madrid."
+        },
+        {
+          "question": "what is the chemical symbol for iron",
+          "answer": "The chemical symbol for iron is Fe."
+        },
+        {
+          "question": "who wrote 'Pride and Prejudice'",
+          "answer": "Jane Austen wrote 'Pride and Prejudice'."
+        },
+        {
+          "question": "what is the capital of Russia",
+          "answer": "The capital of Russia is Moscow."
+        },
+        {
+          "question": "what is the primary function of the kidneys",
+          "answer": "The primary function of the kidneys is to filter waste products from the blood."
+        },
+        {
+          "question": "who painted 'The Starry Night'",
+          "answer": "Vincent van Gogh painted 'The Starry Night'."
+        },
+        {
+          "question": "what is the capital of Italy",
+          "answer": "The capital of Italy is Rome."
+        },
+        {
+          "question": "what is the chemical symbol for calcium",
+          "answer": "The chemical symbol for calcium is Ca."
+        },
+        {
+          "question": "who wrote '1984'",
+          "answer": "George Orwell wrote '1984'."
+        },
+        {
+          "question": "what is the capital of Egypt",
+          "answer": "The capital of Egypt is Cairo."
+        },
+        {
+          "question": "what is the primary function of the pancreas",
+          "answer": "The primary function of the pancreas is to produce insulin and other important enzymes and hormones that help break down foods."
+        },
+        {
+          "question": "who painted 'The Last Supper'",
+          "answer": "Leonardo da Vinci painted 'The Last Supper'."
+        },
+        {
+          "question": "what is the capital of France",
+          "answer": "The capital of France is Paris."
+        },
+        {
+          "question": "what is the chemical symbol for hydrogen",
+          "answer": "The chemical symbol for hydrogen is H."
+        },
+        {
+          "question": "who wrote 'Moby-Dick'",
+          "answer": "Herman Melville wrote 'Moby-Dick'."
+        },
+        {
+          "question": "what is the capital of Japan",
+          "answer": "The capital of Japan is Tokyo."
+        },
+        {
+          "question": "what is the primary function of red blood cells",
+          "answer": "The primary function of red blood cells is to carry oxygen."
+        },
+        {
+          "question": "who painted 'The Garden of Earthly Delights'",
+          "answer": "Hieronymus Bosch painted 'The Garden of Earthly Delights'."
+        },
+        {
+          "question": "what is the capital of Thailand",
+          "answer": "The capital of Thailand is Bangkok."
+        },
+        {
+          "question": "what is the chemical symbol for mercury",
+          "answer": "The chemical symbol for mercury is Hg."
+        },
+        {
+          "question": "who wrote 'War and Peace'",
+          "answer": "Leo Tolstoy wrote 'War and Peace'."
+        },
+        {
+          "question": "what is the capital of India",
+          "answer": "The capital of India is New Delhi."
+        },
+        {
+          "question": "what is the primary function of the small intestine",
+          "answer": "The primary function of the small intestine is to absorb nutrients and minerals from food."
+        },
+        {
+          "question": "who painted 'The Birth of Venus'",
+          "answer": "Sandro Botticelli painted 'The Birth of Venus'."
+        },
+        {
+          "question": "what is the capital of Argentina",
+          "answer": "The capital of Argentina is Buenos Aires."
+        },
+        {
+          "question": "what is the chemical symbol for sodium",
+          "answer": "The chemical symbol for sodium is Na."
+        },
+        {
+          "question": "who wrote 'The Catcher in the Rye'",
+          "answer": "J.D. Salinger wrote 'The Catcher in the Rye'."
+        },
+        {
+          "question": "what is the capital of South Korea",
+          "answer": "The capital of South Korea is Seoul."
+        },
+        {
+          "question": "what is the primary function of the heart",
+          "answer": "The primary function of the heart is to pump blood throughout the body."
+        },
+        {
+          "question": "who painted 'The Scream'",
+          "answer": "Edvard Munch painted 'The Scream'."
+        },
+        {
+          "question": "what is the capital of Canada",
+          "answer": "The capital of Canada is Ottawa."
+        },
+        {
+          "question": "what is the chemical symbol for potassium",
+          "answer": "The chemical symbol for potassium is K."
+        },
+        {
+          "question": "who wrote 'Crime and Punishment'",
+          "answer": "Fyodor Dostoevsky wrote 'Crime and Punishment'."
+        },
+        {
+          "question": "what is the capital of China",
+          "answer": "The capital of China is Beijing."
+        },
+        {
+          "question": "what is the primary function of the liver",
+          "answer": "The primary function of the liver is to detoxify chemicals and metabolize drugs."
+        },
+        {
+          "question": "who painted 'The Night Watch'",
+          "answer": "Rembrandt painted 'The Night Watch'."
+        },
+        {
+          "question": "what is the capital of the Netherlands",
+          "answer": "The capital of the Netherlands is Amsterdam."
+        },
+        {
+          "question": "what is the chemical symbol for carbon",
+          "answer": "The chemical symbol for carbon is C."
+        },
+        {
+          "question": "who wrote 'Anna Karenina'",
+          "answer": "Leo Tolstoy wrote 'Anna Karenina'."
+        },
+        {
+          "question": "what is the capital of Germany",
+          "answer": "The capital of Germany is Berlin."
+        },
+        {
+          "question": "what is the primary function of the pancreas",
+          "answer": "The primary function of the pancreas is to produce insulin and other important enzymes and hormones that help break down foods."
+        },
+        {
+          "question": "who painted 'The Persistence of Memory'",
+          "answer": "Salvador Dalí painted 'The Persistence of Memory'."
+        },
+        {
+          "question": "what is the capital of Vietnam",
+          "answer": "The capital of Vietnam is Hanoi."
+        },
+        {
+          "question": "what is the chemical symbol for aluminum",
+          "answer": "The chemical symbol for aluminum is Al."
+        },
+        {
+          "question": "who wrote 'The Great Gatsby'",
+          "answer": "F. Scott Fitzgerald wrote 'The Great Gatsby'."
+        },
+        {
+          "question": "what is the capital of Indonesia",
+          "answer": "The capital of Indonesia is Jakarta."
+        },
+        {
+          "question": "what is the primary function of the large intestine",
+          "answer": "The primary function of the large intestine is to absorb water and salts from the material that has not been digested as food, and to get rid of any waste products left over."
+        },
+        {
+          "question": "who painted 'The Kiss'",
+          "answer": "Gustav Klimt painted 'The Kiss'."
+        },
+        {
+          "question": "what is the capital of Malaysia",
+          "answer": "The capital of Malaysia is Kuala Lumpur."
+        },
+        {
+          "question": "what is the chemical symbol for silicon",
+          "answer": "The chemical symbol for silicon is Si."
+        },
+        {
+          "question": "who wrote 'The Catcher in the Rye'",
+          "answer": "J.D. Salinger wrote 'The Catcher in the Rye'."
+        },
+        {
+          "question": "what is the capital of Sri Lanka",
+          "answer": "The capital of Sri Lanka is Colombo (commercial) and Sri Jayawardenepura Kotte (administrative)."
+        },
+        {
+          "question": "what is the primary function of red blood cells",
+          "answer": "The primary function of red blood cells is to carry oxygen."
+        },
+        {
+          "question": "who painted 'The Birth of Venus'",
+          "answer": "Sandro Botticelli painted 'The Birth of Venus'."
+        },
+        {
+          "question": "what is the capital of Sweden",
+          "answer": "The capital of Sweden is Stockholm."
+        },
+        {
+          "question": "what is the chemical symbol for copper",
+          "answer": "The chemical symbol for copper is Cu."
+        },
+        {
+          "question": "who wrote 'Pride and Prejudice'",
+          "answer": "Jane Austen wrote 'Pride and Prejudice'."
+        },
+        {
+          "question": "what is the capital of New Zealand",
+          "answer": "The capital of New Zealand is Wellington."
+        },
+        {
+          "question": "what is the primary function of white blood cells",
+          "answer": "The primary function of white blood cells is to fight infections."
+        },
+        {
+          "question": "who painted 'The Persistence of Memory'",
+          "answer": "Salvador Dalí painted 'The Persistence of Memory'."
+        },
+        {
+          "question": "what is the capital of Portugal",
+          "answer": "The capital of Portugal is Lisbon."
+        },
+        {
+          "question": "what is the chemical symbol for gold",
+          "answer": "The chemical symbol for gold is Au."
+        },
+        {
+          "question": "who wrote 'Great Expectations'",
+          "answer": "Charles Dickens wrote 'Great Expectations'."
+        },
+        {
+          "question": "what is the capital of Greece",
+          "answer": "The capital of Greece is Athens."
+        },
+        {
+          "question": "what is the primary function of the kidneys",
+          "answer": "The primary function of the kidneys is to filter waste products from the blood."
+        },
+        {
+          "question": "who painted 'The Last Supper'",
+          "answer": "Leonardo da Vinci painted 'The Last Supper'."
+        },
+        {
+          "question": "what is the capital of Norway",
+          "answer": "The capital of Norway is Oslo."
+        },
+        {
+          "question": "what is the chemical symbol for iron",
+          "answer": "The chemical symbol for iron is Fe."
+        },
+        {
+          "question": "who wrote 'Moby-Dick'",
+          "answer": "Herman Melville wrote 'Moby-Dick'."
+        },
+        {
+          "question": "what is the capital of Saudi Arabia",
+          "answer": "The capital of Saudi Arabia is Riyadh."
+        },
+        {
+          "question": "what is the primary function of the liver",
+          "answer": "The primary function of the liver is to detoxify chemicals and metabolize drugs."
+        },
+        {
+          "question": "who painted 'The Starry Night'",
+          "answer": "Vincent van Gogh painted 'The Starry Night'."
+        },
+        {
+          "question": "what is the capital of Turkey",
+          "answer": "The capital of Turkey is Ankara."
+        },
+        {
+          "question": "what is the chemical symbol for zinc",
+          "answer": "The chemical symbol for zinc is Zn."
+        },
+        {
+          "question": "who wrote 'The Catcher in the Rye'",
+          "answer": "J.D. Salinger wrote 'The Catcher in the Rye'."
+        },
+        {
+          "question": "what is the capital of Switzerland",
+          "answer": "The capital of Switzerland is Bern."
+        },
+        {
+          "question": "what is the primary function of the pancreas",
+          "answer": "The primary function of the pancreas is to produce insulin and other important enzymes and hormones that help break down foods."
+        },
+        {
+          "question": "who painted 'The School of Athens'",
+          "answer": "Raphael painted 'The School of Athens'."
+        },
+        {
+          "question": "what is the capital of Kenya",
+          "answer": "The capital of Kenya is Nairobi."
+        },
+        {
+          "question": "what is the chemical symbol for mercury",
+          "answer": "The chemical symbol for mercury is Hg."
+        },
+        {
+          "question": "who wrote 'Les Misérables'",
+          "answer": "Victor Hugo wrote 'Les Misérables'."
+        },
+        {
+          "question": "what is the capital of Romania",
+          "answer": "The capital of Romania is Bucharest."
+        },
+        {
+          "question": "what is the primary function of platelets",
+          "answer": "The primary function of platelets is to help in blood clotting."
+        },
+        {
+          "question": "who painted 'The Birth of Venus'",
+          "answer": "Sandro Botticelli painted 'The Birth of Venus'."
+        },
+        {
+          "question": "what is the capital of Colombia",
+          "answer": "The capital of Colombia is Bogotá."
+        },
+        {
+          "question": "what is the chemical symbol for aluminum",
+          "answer": "The chemical symbol for aluminum is Al."
+        },
+        {
+          "question": "who wrote 'The Picture of Dorian Gray'",
+          "answer": "Oscar Wilde wrote 'The Picture of Dorian Gray'."
+        },
+        {
+          "question": "what is the capital of Israel",
+          "answer": "The capital of Israel is Jerusalem."
+        },
+        {
+          "question": "what is the primary function of the small intestine",
+          "answer": "The primary function of the small intestine is to absorb nutrients and minerals from food."
+        },
+        {
+          "question": "who painted 'The Garden of Earthly Delights'",
+          "answer": "Hieronymus Bosch painted 'The Garden of Earthly Delights'."
+        },
+        {
+          "question": "what is the capital of Nigeria",
+          "answer": "The capital of Nigeria is Abuja."
+        },
+        {
+          "question": "what is the chemical symbol for sodium",
+          "answer": "The chemical symbol for sodium is Na."
+        },
+        {
+          "question": "who wrote '1984'",
+          "answer": "George Orwell wrote '1984'."
+        },
+        {
+          "question": "what is the capital of Australia",
+          "answer": "The capital of Australia is Canberra."
+        },
+        {
+          "question": "what is the primary function of the large intestine",
+          "answer": "The primary function of the large intestine is to absorb water and salts from the material that has not been digested as food, and to get rid of any waste products left over."
+        },
+        {
+          "question": "who painted 'The School of Athens'",
+          "answer": "Raphael painted 'The School of Athens'."
+        },
+        {
+          "question": "what is the capital of South Korea",
+          "answer": "The capital of South Korea is Seoul."
+        },
+        {
+          "question": "what is the chemical symbol for oxygen",
+          "answer": "The chemical symbol for oxygen is O."
+        },
+        {
+          "question": "who wrote 'Wuthering Heights'",
+          "answer": "Emily Brontë wrote 'Wuthering Heights'."
+        },
+        {
+          "question": "what is the capital of Malaysia",
+          "answer": "The capital of Malaysia is Kuala Lumpur."
+        },
+        {
+          "question": "what is the primary function of the kidneys",
+          "answer": "The primary function of the kidneys is to filter waste products from the blood."
+        },
+        {
+          "question": "who painted 'The Kiss'",
+          "answer": "Gustav Klimt painted 'The Kiss'."
+        },
+        {
+          "question": "what is the capital of Mongolia",
+          "answer": "The capital of Mongolia is Ulaanbaatar."
+        },
+        {
+          "question": "what is the chemical symbol for calcium",
+          "answer": "The chemical symbol for calcium is Ca."
+        },
+        {
+          "question": "who wrote 'The Count of Monte Cristo'",
+          "answer": "Alexandre Dumas wrote 'The Count of Monte Cristo'."
+        },
+        {
+          "question": "what is the capital of Peru",
+          "answer": "The capital of Peru is Lima."
+        },
+        {
+          "question": "what is the primary function of the pancreas",
+          "answer": "The primary function of the pancreas is to produce insulin and other important enzymes and hormones that help break down foods."
+        },
+        {
+          "question": "who painted 'The Persistence of Memory'",
+          "answer": "Salvador Dalí painted 'The Persistence of Memory'."
+        },
+        {
+          "question": "what is the capital of Iceland",
+          "answer": "The capital of Iceland is Reykjavik."
+        },
+        {
+          "question": "what is the chemical symbol for iron",
+          "answer": "The chemical symbol for iron is Fe."
+        },
+        {
+          "question": "who wrote 'Frankenstein'",
+          "answer": "Mary Shelley wrote 'Frankenstein'."
+        },
+        {
+          "question": "what is the capital of the Czech Republic",
+          "answer": "The capital of the Czech Republic is Prague."
+        },
+        {
+          "question": "what is the primary function of red blood cells",
+          "answer": "The primary function of red blood cells is to carry oxygen."
+        },
+        {
+          "question": "who painted 'The Night Watch'",
+          "answer": "Rembrandt painted 'The Night Watch'."
+        },
+        {
+          "question": "what is the capital of Finland",
+          "answer": "The capital of Finland is Helsinki."
+        },
+        {
+          "question": "what is the chemical symbol for mercury",
+          "answer": "The chemical symbol for mercury is Hg."
+        },
+        {
+          "question": "who wrote 'To Kill a Mockingbird'",
+          "answer": "Harper Lee wrote 'To Kill a Mockingbird'."
+        },
+        {
+          "question": "what is the capital of Switzerland",
+          "answer": "The capital of Switzerland is Bern."
+        },
+        {
+          "question": "what is the primary function of the liver",
+          "answer": "The primary function of the liver is to detoxify chemicals and metabolize drugs."
+        },
+        {
+          "question": "who painted 'The School of Athens'",
+          "answer": "Raphael painted 'The School of Athens'."
+        },
+        {
+          "question": "what is the capital of the Philippines",
+          "answer": "The capital of the Philippines is Manila."
+        },
+        {
+          "question": "what is the chemical symbol for silver",
+          "answer": "The chemical symbol for silver is Ag."
+        },
+        {
+          "question": "who wrote 'Les Misérables'",
+          "answer": "Victor Hugo wrote 'Les Misérables'."
+        },
+        {
+          "question": "what is the capital of Cambodia",
+          "answer": "The capital of Cambodia is Phnom Penh."
+        },
+        {
+          "question": "what is the primary function of the small intestine",
+          "answer": "The primary function of the small intestine is to absorb nutrients and minerals from food."
+        },
+        {
+          "question": "who painted 'The Garden of Earthly Delights'",
+          "answer": "Hieronymus Bosch painted 'The Garden of Earthly Delights'."
+        },
+        {
+          "question": "what is the capital of Belgium",
+          "answer": "The capital of Belgium is Brussels."
+        },
+        {
+          "question": "what is the chemical symbol for platinum",
+          "answer": "The chemical symbol for platinum is Pt."
+        },
+        {
+          "question": "who wrote 'The Picture of Dorian Gray'",
+          "answer": "Oscar Wilde wrote 'The Picture of Dorian Gray'."
+        },
+        {
+          "question": "what is the capital of Chile",
+          "answer": "The capital of Chile is Santiago."
+        },
+        {
+          "question": "what is the primary function of platelets",
+          "answer": "The primary function of platelets is to help in blood clotting."
+        },
+        {
+          "question": "who painted 'The Starry Night'",
+          "answer": "Vincent van Gogh painted 'The Starry Night'."
+        },
+        {
+          "question": "what is the capital of Poland",
+          "answer": "The capital of Poland is Warsaw."
+        },
+        {
+          "question": "what is the chemical symbol for nitrogen",
+          "answer": "The chemical symbol for nitrogen is N."
+        },
+        {
+          "question": "who wrote 'Great Expectations'",
+          "answer": "Charles Dickens wrote 'Great Expectations'."
+        },
+        {
+          "question": "what is the capital of Norway",
+          "answer": "The capital of Norway is Oslo."
+        },
+        {
+          "question": "what is the primary function of white blood cells",
+          "answer": "The primary function of white blood cells is to fight infections."
+        },
+        {
+          "question": "Who painted 'The Thinker'?",
+          "answer": "Auguste Rodin painted 'The Thinker'."
+        },
+        {
+          "question": "What is the capital of Spain?",
+          "answer": "The capital of Spain is Madrid."
+        },
+        {
+          "question": "What is the chemical symbol for lead?",
+          "answer": "The chemical symbol for lead is Pb."
+        },
+        {
+          "question": "Who wrote 'The Odyssey'?",
+          "answer": "Homer wrote 'The Odyssey'."
+        },
+        {
+          "question": "What is the capital of Brazil?",
+          "answer": "The capital of Brazil is Brasília."
+        },
+        {
+          "question": "What is the chemical symbol for sulfur?",
+          "answer": "The chemical symbol for sulfur is S."
+        },
+        {
+          "question": "Who painted 'Starry Night Over the Rhône'?",
+          "answer": "Vincent van Gogh painted 'Starry Night Over the Rhône'."
+        },
+        {
+          "question": "What is the capital of France?",
+          "answer": "The capital of France is Paris."
+        },
+        {
+          "question": "Who wrote 'The Catcher in the Rye'?",
+          "answer": "J.D. Salinger wrote 'The Catcher in the Rye'."
+        },
+        {
+          "question": "What is the chemical symbol for gold?",
+          "answer": "The chemical symbol for gold is Au."
+        },
+        {
+          "question": "Who painted the Mona Lisa?",
+          "answer": "Leonardo da Vinci painted the Mona Lisa."
+        },
+        {
+          "question": "What is the capital of China?",
+          "answer": "The capital of China is Beijing."
+        },
+        {
+          "question": "Who wrote 'Pride and Prejudice'?",
+          "answer": "Jane Austen wrote 'Pride and Prejudice'."
+        },
+        {
+          "question": "What is the chemical symbol for carbon?",
+          "answer": "The chemical symbol for carbon is C."
+        },
+        {
+          "question": "Who painted 'The Persistence of Memory'?",
+          "answer": "Salvador Dalí painted 'The Persistence of Memory'."
+        }
   ]
 }
+    
