@@ -16,14 +16,15 @@ def save_knowledge_base(file_path: str, data: dict):
 
 #finding the best match based on the input given 
 def find_best_match(user_question: str, questions: list[str]) -> str | None:
-    matches: list = get_close_matches(user_question, questions, n=1, cutoff=0.6)
+    matches: list = get_close_matches(user_question, questions, n=1, cutoff=0.8)
     return matches[0] if matches else None
 
 #Finding the answer to the question
 def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
     for q in knowledge_base["questions"]:
-        if q["question"] == question:
+        if q.get("question") == question:
             return q["answer"]
+    return None
     
 
 def chat_bot():
@@ -36,8 +37,13 @@ def chat_bot():
         if user_input.lower() == 'quit':
             break
 
-        #finding the matching string with the user input for the output
-        best_match: str | None = find_best_match(user_input, [q["question"] for q in knowledge_base["questions"]])
+        if not user_input:
+            print("Bot: Please enter a valid question.")
+            continue
+
+        # Finding the matching string with the user input for the output
+        questions_list = [q["question"] for q in knowledge_base["questions"] if "question" in q]
+        best_match = find_best_match(user_input, questions_list)
         if best_match:
             answer: str = get_answer_for_question(best_match, knowledge_base)
             print(f'Bot: {answer}')
