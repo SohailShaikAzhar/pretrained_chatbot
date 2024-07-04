@@ -1601,7 +1601,11 @@
         {
           "question": "Who painted 'The Persistence of Memory'?",
           "answer": "Salvador Dalí painted 'The Persistence of Memory'."
-        }
+        },
+    {
+      "question": "thankyou",
+      "answer": "you are wellcome, I am glad that I can help you..!"
+    }
   ]
 }
     
